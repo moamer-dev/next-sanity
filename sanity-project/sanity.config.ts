@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'Sanity Project',
 
-  projectId: 'p3crz2v7',
+  projectId: 'ora8086v',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
